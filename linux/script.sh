@@ -1,5 +1,5 @@
 #!/bin/bash
-#heloo 
+#heloo thouheed
 "echofffffff
 dddd
 dd
